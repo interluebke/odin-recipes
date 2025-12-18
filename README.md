@@ -9,4 +9,4 @@ Used Git and Basic HTML, including lists, images, and relative links to create t
 Pictures by:
 - Vincenzo's Plate (https://www.vincenzosplate.com/)
 - Peyton Beckwith via allrecipes.com (https://www.allrecipes.com/chicken-and-waffle-bites-recipe-11752992)
--Anonymous Allrecipes Member via allrecipes.com (https://www.allrecipes.com/recipe/36168/louisiana-sweet-potato-pancakes/)
+- Anonymous Allrecipes Member via allrecipes.com (https://www.allrecipes.com/recipe/36168/louisiana-sweet-potato-pancakes/)
